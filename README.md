@@ -1,2 +1,2 @@
 # Cricket-Game
-Simple Real Cricket game built using C++ Graphics and you can play an entire league maintaining your stats
+Simple Real Cricket game built using C++ Graphics and designed using OOPS principle. You can play an entire league maintaining your stats
