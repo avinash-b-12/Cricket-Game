@@ -1,0 +1,11 @@
+Lynn right BAT 0 0 0 0 0/0
+Narine left ALL 0 0 0 0 0/0
+Rana left BAT 0 0 0 0 0/0
+Morgan left BAT 0 0 0 0 0/0
+Gill left BAT 0 0 0 0 0/0
+Rusell right ALL 0 0 0 0 0/0
+Karthik right WKB 1 0 0 0 0/0
+Kuldeep right BWL 0 0 0 0 0/0
+Chawla left BWL 0 0 0 0 0/0
+Mavi right BWL 0 0 0 0 0/0
+Ferguson right BWL 0 0 0 0 0/0

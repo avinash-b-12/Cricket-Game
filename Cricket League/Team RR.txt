@@ -1,0 +1,11 @@
+Rahane right BAT 0 0 0 0 0/0
+Tripathi right BAT 0 0 0 0 0/0
+Buttler right WKB 0 0 0 0 0/0
+Smith right BAT 1 0 0 0 0/0
+Samson right BAT 0 0 0 0 0/0
+Stokes left ALL 0 0 0 0 0/0
+Binny right ALL 0 0 0 0 0/0
+Kulkarni left BWL 0 0 0 0 0/0
+Unadkat right BWL 0 0 0 0 0/0
+Archer left BWL 0 0 0 0 0/0
+Aaron left BWL 0 0 0 0 0/0

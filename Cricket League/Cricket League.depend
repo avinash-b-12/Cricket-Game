@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1595541429 source:c:\users\avinash chandan\desktop\final package\cricket league\batsman.cpp
+	<iostream>
+	<string>
+	"Batsman.h"
+
+1595541429 c:\users\avinash chandan\desktop\final package\cricket league\batsman.h
+	<iostream>
+	<string>
+
+1595541429 source:c:\users\avinash chandan\desktop\final package\cricket league\bowler.cpp
+	<iostream>
+	<string>
+	"Bowler.h"
+
+1595541429 c:\users\avinash chandan\desktop\final package\cricket league\bowler.h
+	<iostream>
+	<string>
+
+1595610902 source:c:\users\avinash chandan\desktop\final package\cricket league\cricket.cpp
+	<graphics.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<cstdio>
+	<stdlib.h>
+	"Cricket.h"
+	"Timeline.h"
+
+1595609040 c:\users\avinash chandan\desktop\final package\cricket league\cricket.h
+	<graphics.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+	"Batsman.h"
+	"Bowler.h"
+	"Team.h"
+	"Timeline.h"
+
+1587480348 c:\users\avinash chandan\desktop\final package\cricket league\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1595582416 c:\users\avinash chandan\desktop\final package\cricket league\player.h
+	<iostream>
+	<string>
+
+1587751364 c:\users\avinash chandan\desktop\final package\cricket league\timeline.h
+	<iostream>
+	<string>
+
+1595683292 source:c:\users\avinash chandan\desktop\final package\cricket league\main.cpp
+	<iostream>
+	"Team.h"
+	"Cricket.h"
+	"Match.h"
+
+1595612380 c:\users\avinash chandan\desktop\final package\cricket league\match.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<string>
+	<time.h>
+	"Team.h"
+	"Cricket.h"
+	"Ptable.h"
+
+1595629933 source:c:\users\avinash chandan\desktop\final package\cricket league\match.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	<sstream>
+	"Match.h"
+	"Batsman.h"
+	"Bowler.h"
+	"PTable.h"
+
+1595582416 source:c:\users\avinash chandan\desktop\final package\cricket league\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1587480373 source:c:\users\avinash chandan\desktop\final package\cricket league\team.cpp
+	<iostream>
+	<string>
+	"Team.h"
+
+1587751365 source:c:\users\avinash chandan\desktop\final package\cricket league\timeline.cpp
+	<iostream>
+	<string>
+	"Timeline.h"
+
+1595601146 c:\users\avinash chandan\desktop\final package\cricket league\ptable.h
+	<iostream>
+	<string>
+
+1595601132 source:c:\users\avinash chandan\desktop\final package\cricket league\ptable.cpp
+	<iostream>
+	<string>
+	"Ptable.h"
+
+1595541429 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\batsman.cpp
+	<iostream>
+	<string>
+	"Batsman.h"
+
+1595541429 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\batsman.h
+	<iostream>
+	<string>
+
+1595541429 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\bowler.cpp
+	<iostream>
+	<string>
+	"Bowler.h"
+
+1595541429 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\bowler.h
+	<iostream>
+	<string>
+
+1595610902 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\cricket.cpp
+	<graphics.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<cstdio>
+	<stdlib.h>
+	"Cricket.h"
+	"Timeline.h"
+
+1595609040 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\cricket.h
+	<graphics.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+	"Batsman.h"
+	"Bowler.h"
+	"Team.h"
+	"Timeline.h"
+
+1587480348 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1595582416 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\player.h
+	<iostream>
+	<string>
+
+1587751364 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\timeline.h
+	<iostream>
+	<string>
+
+1595683292 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\main.cpp
+	<iostream>
+	"Team.h"
+	"Cricket.h"
+	"Match.h"
+
+1595612380 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\match.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<string>
+	<time.h>
+	"Team.h"
+	"Cricket.h"
+	"Ptable.h"
+
+1595601146 c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\ptable.h
+	<iostream>
+	<string>
+
+1595629933 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\match.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	<sstream>
+	"Match.h"
+	"Batsman.h"
+	"Bowler.h"
+	"PTable.h"
+
+1595582416 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1595601132 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\ptable.cpp
+	<iostream>
+	<string>
+	"Ptable.h"
+
+1587480373 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\team.cpp
+	<iostream>
+	<string>
+	"Team.h"
+
+1587751365 source:c:\users\avinash chandan\desktop\software systems\sem-2\2nd semester\c++ package\final package\cricket league\timeline.cpp
+	<iostream>
+	<string>
+	"Timeline.h"
+

@@ -1,0 +1,11 @@
+Watson right BAT 0 0 0 0 0/0
+Rayudu right BAT 0 0 0 0 0/0
+Raina left ALL 0 0 0 0 0/0
+Dhoni right WKB 1 0 0 0 0/0
+Bravo right ALL 0 0 0 0 0/0
+Jadhav right BAT 0 0 0 0 0/0
+Jadeja left ALL 0 0 0 0 0/0
+Harbhajan right BWL 0 0 0 0 0/0
+Chahar right BWL 0 0 0 0 0/0
+Ngidi left BWL 0 0 0 0 0/0
+Tahir right BWL 0 0 0 0 0/0
